@@ -14,7 +14,7 @@ At [Build 2016](https://build.microsoft.com/), Microsoft announced a new [Visual
 
 ## Installation and configuration:
 
-Grab the latest vsix file from the [Releases](../../releases) page, and double-click it to install in Visual Studio.
+Grab the latest vsix file from the [Releases](../../releases) page (or the [Visual Studio Gallery](https://visualstudiogallery.msdn.microsoft.com/9600779f-ee03-4b1b-9dfa-5bb9af85085b)), and double-click it to install in Visual Studio.
 
 Once installed, open Visual Studio "15", select **File > Open > Folder...**, and select a folder containing scriptcs (*.csx) files
 
